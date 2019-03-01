@@ -1,3 +1,13 @@
+# ScatterIOS
+Using Telegraph to build a websocket server in ios client。
+
+Scatter Connection from webview demo builds in Example Folder。
+
+Following is the instruction for Telegraph。
+
+# Telegraph
+
+
 ![Telegraph: Secure Web Server for iOS, tvOS and macOS](https://github.com/Building42/Telegraph/raw/master/Resources/logo.png)
 
 [![Build Status](https://travis-ci.org/Building42/Telegraph.svg?branch=master)](https://travis-ci.org/Building42/Telegraph)
@@ -388,4 +398,4 @@ Thank you to our contributors, your pull requests are most welcome and appreciat
 ## License
 
 Telegraph is released under the MIT license. See [LICENSE](https://github.com/Building42/Telegraph/blob/master/LICENSE) for details.
-# ScatterIOS
+
